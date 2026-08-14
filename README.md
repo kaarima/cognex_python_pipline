@@ -54,5 +54,3 @@ Notes
 - Cognex connection parameters are defined in `cognex_script.py` (variables `IP` and `PORT`). Edit them if your device uses a different address/port.
 - `cognex_script.py` opens a TCP connection to the device and will attempt to log in with username `admin` and no password; run it only on a trusted network.
 - Data and plots are written to the workspace folder; `statistical_analysis.py` creates a `plots/` directory for per-feature PNGs.
-
-If you want, I can also create a `requirements.txt` and a small `run_all.sh` / `run_all.bat` to automate the pipeline.
