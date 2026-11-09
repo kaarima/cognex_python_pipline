@@ -1,6 +1,5 @@
 # Valeo Cognex Measurement Analysis
 
-Short description
 
 This project captures measurements from a Cognex vision system, computes basic statistics (mean, std, CV), derives 3‑sigma tolerances, and generates plots for inspection and analysis.
 
